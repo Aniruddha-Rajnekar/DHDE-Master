@@ -1,0 +1,40 @@
+{
+  "name": "hie-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^6.2.0",
+    "nodemon": "^1.18.7"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "cli-table": "^0.3.1",
+    "composer-client": "^0.20.7",
+    "connect-busboy": "0.0.2",
+    "crypto-js": "^3.1.9-1",
+    "dateformat": "^3.0.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "formidable": "^1.2.1",
+    "joi": "^14.3.0",
+    "log-symbols": "^2.2.0",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.5",
+    "node-menu": "^1.3.0",
+    "path": "^0.12.7",
+    "prettyoutput": "^1.2.0",
+    "prompt": "^1.0.0",
+    "q": "^1.5.1",
+    "readline-sync": "^1.4.9",
+    "request": "^2.88.0",
+    "sequelize": "^4.42.0",
+    "xml2json": "^0.11.2"
+  }
+}
